@@ -1,6 +1,6 @@
 package org2.eclipse.php.internal.debug.ui.pathmapper;
 
-import org.eclipse.ui.internal.misc.StringMatcher;
+import org.eclipse.core.text.StringMatcher;
 
 /**
  * A search pattern defines how search results are found.
